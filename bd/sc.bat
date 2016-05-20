@@ -1,0 +1,1 @@
+scrapy crawl sc > 1.log 2>&1
